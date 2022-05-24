@@ -1,4 +1,4 @@
-# Nuscenes dataset visualization with Open3D
+# Nuscenes visualization with Open3D
 ## Download Nuscenes dataset
 Users can download the dataset from [nuscenes](https://www.nuscenes.org/nuscenes).
 The download command is: 
@@ -30,5 +30,6 @@ The schema after preprocessing should be:
 └── v1.0-mini
 ```
 ## Visualization with Open3D
+Open3D has released Open3D 0.15.0 version. In Open3D 0.15.0, authors not only released Open3D-dedicated Command Line Interface (CLI) for visualization and running Python examples, but also added support for Images in Dataset Visualizer.
 
 
