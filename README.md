@@ -1,4 +1,12 @@
 # Nuscenes visualization with Open3D
+This is a demo of visualizing nuscenes with Open3D library, including lidar point cloud and camera images.
+## Download Open3D library
+The latest version of Open3D is 0.15.
+We can use the following command to download the library.
+```bash
+pip install open3d==0.15.2
+```
+Note: Please pay attention to the issue: [pip can't find 0.15.1](https://github.com/isl-org/Open3D/issues/4796)
 ## Download Nuscenes dataset
 Users can download the dataset from [nuscenes](https://www.nuscenes.org/nuscenes).
 The download command is: 
