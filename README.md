@@ -32,4 +32,10 @@ The schema after preprocessing should be:
 ## Visualization with Open3D
 Open3D has released Open3D 0.15.0 version. In Open3D 0.15.0, authors not only released Open3D-dedicated Command Line Interface (CLI) for visualization and running Python examples, but also added support for Images in Dataset Visualizer.
 
+```bash
+python visualize.py nuscenes /path/to/nuscenes/dataset
+```
+The following picture and video show the visualization of nuscenes with Open3D. 
+![Visualiztaion screenshot](https://github.com/ShuchangLi/Nuscenes-visualization-Open3D/blob/main/img_folder/screenshot.png)
+[Video demo](https://github.com/ShuchangLi/Nuscenes-visualization-Open3D/blob/main/img_folder/nuscenes_demo.mp4)
 
