@@ -6,7 +6,7 @@ We can use the following command to download the library.
 ```bash
 pip install open3d==0.15.2
 ```
-Note: Please pay attention to the [issue: pip can't find 0.15.1](https://github.com/isl-org/Open3D/issues/4796)
+Note: Please pay attention to the issue: [pip can't find 0.15.1](https://github.com/isl-org/Open3D/issues/4796)
 ## Download Nuscenes dataset
 Users can download the dataset from [nuscenes](https://www.nuscenes.org/nuscenes).
 The download command is: 
