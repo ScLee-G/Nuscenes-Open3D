@@ -2,7 +2,7 @@
 This is a demo of visualizing nuscenes based on [Open3D](https://github.com/isl-org/Open3D-ML) library, including lidar point clouds and camera images.
 ## Download Open3D library
 The latest version of Open3D is 0.15.
-We can use the following command to download the library.
+We can use the following command to install the library.
 ```bash
 pip install open3d==0.15.2
 ```
